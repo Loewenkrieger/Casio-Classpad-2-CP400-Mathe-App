@@ -1,0 +1,11 @@
+build/
+dist/
+backups/
+publication/
+__pycache__/
+*.pyc
+*.ppm
+*.o
+*.a
+*.elf
+*.map

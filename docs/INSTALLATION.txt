@@ -1,0 +1,37 @@
+MATHE VEKTOR 1.0.3 - Casio ClassPad II / fx-CP400
+
+VORAUSSETZUNGEN
+Hollyhock 3, ein Launcher fuer .hh3-Apps und OS 02.01.7002.0001.
+
+INSTALLATION
+1. Das ZIP entpacken.
+2. Den ClassPad per USB verbinden und das Taschenrechner-Laufwerk oeffnen.
+3. mathe.hh3 ins Hauptverzeichnis neben die vorhandene run.bin kopieren.
+4. Laufwerk sicher auswerfen, USB trennen und Hollyhock 3 oeffnen.
+5. Mathe Vektor auswaehlen und starten.
+
+Auf dem Taschenrechner wird nur mathe.hh3 benoetigt.
+Zum Aktualisieren diese Datei durch die neue Version ersetzen.
+
+BEDIENUNG
+Touch oder Pfeile/EXE zum Auswaehlen.
+x/y/z im passenden farbigen Vektorblock antippen.
+Das ? neben dem aktiven Feld erklaert Bedeutung, Herkunft und ein Beispiel.
+DEL loescht; EXE geht weiter; Rechnen oder = startet die Berechnung.
+Clear geht zurueck und beendet die App auf dem Startbildschirm direkt.
+Text mit Pfeilen oder durch Ziehen scrollen.
+2D/3D fuer geeignete Aufgaben unter Einstellungen waehlen.
+
+EINGABEBEISPIELE
+1/3, sqrt(2), (2+3)/4, 1E-3
+Gerade: X=A+t*u
+Ebene: n.X=d; bei 2x-y+3z-6=0 gilt n=(2; -1; 3), d=6.
+Brueche und Wurzeln werden numerisch ausgewertet.
+Ergebnisse: zehn signifikante Stellen.
+
+DOWNLOADS UND ANLEITUNG
+https://github.com/Loewenkrieger/Casio-Classpad-2-CP400-Mathe-App
+
+LIZENZEN
+App: GPL-3.0-or-later, siehe LICENSE.
+Schrift: siehe FONT-LICENSE.txt.
